@@ -1,0 +1,37 @@
+<RCC>
+    <qresource prefix="/">
+        <file>style/1.qss</file>
+        <file>style/2.qss</file>
+        <file>style/3.qss</file>
+        <file>style/4.qss</file>
+        <file>style/5.qss</file>
+        <file>style/6.qss</file>
+        <file>style/7.qss</file>
+        <file>style/8.qss</file>
+        <file>style/9.qss</file>
+        <file>style/10.qss</file>
+        <file>ico/check-mark-3-16.ico</file>
+        <file>ico/DISK04.ICO</file>
+        <file>ico/FACE01.ICO</file>
+        <file>ico/FACE02.ICO</file>
+        <file>ico/FACE03.ICO</file>
+        <file>ico/FACE04.ICO</file>
+        <file>ico/FACE05.ICO</file>
+        <file>ico/ICON-2.png</file>
+        <file>ico/ICON-8.png</file>
+        <file>ico/le.png</file>
+        <file>ico/moneybox-32.ico</file>
+        <file>ico/POINT06.ICO</file>
+        <file>ico/POINT07.ICO</file>
+        <file>ico/SUN.ICO</file>
+        <file>ico/TRASH01.ICO</file>
+        <file>ico/WATCH01.ICO</file>
+        <file>ico/奖状2.jpg</file>
+        <file>ico/头像1.jpg</file>
+        <file>ico/头像3.jpg</file>
+        <file>ico/头像4.jpg</file>
+        <file>ico/头像5.jpg</file>
+        <file>ico/头像6.jpg</file>
+        <file>ico/NEWSAT.ICO</file>
+    </qresource>
+</RCC>
